@@ -26,7 +26,7 @@ export default function Slider() {
       <img className="d-block w-100" style={{maxHeight: "90vh", objectFit: "cover", objectPosition: "top"}} src={bride} alt="Моя фотография с невестой"/>
       <Carousel.Caption>
         <h3>Визажист стилист</h3>
-        <p>Невесты и фотосессии</p>
+        <p>Макияж для невест и фотосессий</p>
       </Carousel.Caption>
     </Carousel.Item>
    </Carousel>
