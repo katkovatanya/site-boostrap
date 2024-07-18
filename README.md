@@ -1,6 +1,6 @@
 В проекте использованы библиотеки
 
-React
-React-Router
-Styled Components
-Bootstrap 5
+* React
+* React-Router
+* Styled Components
+* Bootstrap 5
