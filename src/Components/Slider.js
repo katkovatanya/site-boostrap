@@ -1,8 +1,8 @@
 import React from "react";
 import { Carousel } from "react-bootstrap";
-import myphoto from '../my-photo.jpg'
-import mysecondphoto from '../my-second-photo.jpg'
-import bride from '../bride.jpg'
+import myphoto from '../Images/my-photo.jpg'
+import mysecondphoto from '../Images/my-second-photo.jpg'
+import bride from '../Images/bride.jpg'
 
 
 export default function Slider() {
